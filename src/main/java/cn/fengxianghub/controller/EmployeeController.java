@@ -1,10 +1,10 @@
-package cn.wolfcode.controller;
+package cn.fengxianghub.controller;
 
-import cn.wolfcode.domain.Employee;
-import cn.wolfcode.query.EmployeeQueryObject;
-import cn.wolfcode.service.IEmployeeService;
-import cn.wolfcode.util.AjaxResult;
-import cn.wolfcode.util.PageResult;
+import cn.fengxianghub.domain.Employee;
+import cn.fengxianghub.query.EmployeeQueryObject;
+import cn.fengxianghub.service.IEmployeeService;
+import cn.fengxianghub.util.AjaxResult;
+import cn.fengxianghub.util.PageResult;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

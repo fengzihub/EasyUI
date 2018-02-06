@@ -1,7 +1,7 @@
-package cn.wolfcode.mapper;
+package cn.fengxianghub.mapper;
 
-import cn.wolfcode.domain.Employee;
-import cn.wolfcode.query.EmployeeQueryObject;
+import cn.fengxianghub.domain.Employee;
+import cn.fengxianghub.query.EmployeeQueryObject;
 
 import java.util.List;
 

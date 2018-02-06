@@ -1,4 +1,4 @@
-package cn.wolfcode.util;
+package cn.fengxianghub.util;
 
 import lombok.Getter;
 import lombok.Setter;

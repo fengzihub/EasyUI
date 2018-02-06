@@ -1,4 +1,4 @@
-package cn.wolfcode.domain;
+package cn.fengxianghub.domain;
 
 import lombok.Getter;
 import lombok.Setter;

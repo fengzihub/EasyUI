@@ -1,8 +1,8 @@
-package cn.wolfcode.service;
+package cn.fengxianghub.service;
 
-import cn.wolfcode.domain.Employee;
-import cn.wolfcode.query.EmployeeQueryObject;
-import cn.wolfcode.util.PageResult;
+import cn.fengxianghub.domain.Employee;
+import cn.fengxianghub.query.EmployeeQueryObject;
+import cn.fengxianghub.util.PageResult;
 
 import java.util.List;
 

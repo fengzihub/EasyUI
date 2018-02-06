@@ -1,10 +1,10 @@
-package cn.wolfcode.service.impl;
+package cn.fengxianghub.service.impl;
 
-import cn.wolfcode.domain.Employee;
-import cn.wolfcode.mapper.EmployeeMapper;
-import cn.wolfcode.query.EmployeeQueryObject;
-import cn.wolfcode.service.IEmployeeService;
-import cn.wolfcode.util.PageResult;
+import cn.fengxianghub.domain.Employee;
+import cn.fengxianghub.mapper.EmployeeMapper;
+import cn.fengxianghub.query.EmployeeQueryObject;
+import cn.fengxianghub.service.IEmployeeService;
+import cn.fengxianghub.util.PageResult;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

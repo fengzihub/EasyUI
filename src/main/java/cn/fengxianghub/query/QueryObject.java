@@ -1,4 +1,4 @@
-package cn.wolfcode.query;
+package cn.fengxianghub.query;
 
 import lombok.Getter;
 import lombok.Setter;
